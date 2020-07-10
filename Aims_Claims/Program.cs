@@ -13,7 +13,7 @@ namespace Aims_Claims
     {
         static void Main(string[] args)
         {
-
+            Console.Write("test repot");
         }
     }
 
